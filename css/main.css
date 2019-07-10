@@ -18,9 +18,20 @@
 }
 .main_section {
 	flex:auto;
+	margin-right:15px;
 }
 .main_section .section_title {
+	position:relative;
 	font-size:20px;
 	font-weight: 500;
-	border-bottom: 1px solid #f7f7f7;
+	border-bottom: 1px solid #f2f2f2;
+	padding-bottom:5px;
+}
+.section_title .title_head {
+	padding-bottom:9px;
+	border-bottom:1px solid;
+}
+.main_section .section_content {
+	padding-top:10px;
+	padding-bottom:10px;
 }
