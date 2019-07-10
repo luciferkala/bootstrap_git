@@ -1,0 +1,21 @@
+header {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	padding:30px;  
+	background-color:#f2f2f2; 
+}
+
+.main_nav {
+	display: flex;
+	justify-contetnt: space-around;	
+	align-items: center;
+}
+.main_nav .nav_content {
+	padding:15px; 
+}
+
+.nav_content .nav_span {
+	font-weight: 600;
+	
+}

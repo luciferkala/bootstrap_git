@@ -1,0 +1,13 @@
+@import 'bootstrap/bootstrap.min.css';
+@import 'header.css';
+@import 'main.css';
+
+body {
+	background-color: #f2f2f2;
+}
+.big_brother {
+	margin: 0px 130px;
+	box-shadow:0 0 16px 0 rgba(0,0,0,0.16);
+	-webkit-box-shadow: 0 0 16px 0 rgba(0,0,0,0.16);
+	-moz-box-shadow: 0 0 16px 0 rgba(0,0,0,0.16);
+}
