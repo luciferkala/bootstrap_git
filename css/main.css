@@ -1,9 +1,26 @@
-.main_content {
-	padding:32px;
+.main {
 	background-color:#ffffff;
+	padding:20px;
 }
 
-.main_content .main_image {
-	width: 740px;
-	height: 255px;
+.main_image {
+	width: 98%;
+	height: 100%;
+	margin: 10px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.main_row {
+	display: flex;
+	justify-content: space-between;	
+	margin: 10px;
+}
+.main_section {
+	flex:auto;
+}
+.main_section .section_title {
+	font-size:20px;
+	font-weight: 500;
+	border-bottom: 1px solid #f7f7f7;
 }
