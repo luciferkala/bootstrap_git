@@ -1,6 +1,7 @@
 @import 'bootstrap/bootstrap.min.css';
 @import 'header.css';
 @import 'main.css';
+@import 'footer.css';
 
 body {
 	background-color: #f2f2f2;
